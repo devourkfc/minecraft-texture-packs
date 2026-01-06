@@ -1,0 +1,3 @@
+If you want to use this texture pack, play Minecraft 1.4.5
+
+Made with the insides of the .jar file in my multimc 1.4.5 instance if that even makes sense to you
